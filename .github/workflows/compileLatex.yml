@@ -13,7 +13,7 @@ jobs:
       - name: Compile LaTeX document
         uses: dante-ev/latex-action@latest
         with:
-          entrypoint: compileLatex.sh
+          entrypoint: ./compileLatex.sh
       - name: push back to repo
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
