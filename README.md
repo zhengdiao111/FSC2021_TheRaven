@@ -1,1 +1,1 @@
-# FSC2021_TheRaven
+# UCI NIH Foundations Short Course: The Raven
